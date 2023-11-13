@@ -1,4 +1,5 @@
-# Give me a descriptive caption for this image
+# Prompt
+Give me a descriptive caption for this image
 
 ## 1.PNG
 ![1.PNG](images_copy/1.PNG)
