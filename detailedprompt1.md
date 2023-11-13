@@ -2,7 +2,7 @@
  Based on the provided image, explain the image. If the image is a technical diagram or process etc, explain the image in technical terms in detail. if the image is a general image, describe the image in generic manner. but if the image is just plainn text, then return the text with explanaition and summary and original text with heading as 'Original Text' and 'Summary' and 'Explanation'
 
 ## 1.PNG
-![1.PNG](images_copy\1.PNG)
+![1.PNG](images_copy/1.PNG)
 This is a technical diagram illustrating a problem known as "Obstrucción del orificio" in a soldering process which translates to "Orifice Obstruction" in English. Below the diagram is a list with descriptions correlating to numbered parts of the image.
 
 ### Original Text:
@@ -18,11 +18,11 @@ The diagram depicts a situation where the body of a component is in contact with
 This type of diagram is commonly used in electronics manufacturing and troubleshooting guides to illustrate issues that can occur during the soldering phase of circuit board assembly. The purpose of the diagram is to help engineers or technicians identify the problem and seek solutions to ensure proper soldering and avoid defective connections which can result in electronic device failure. This particular issue might be addressed by adjusting the placement of components, modifying the solder paste application, or revising the reflow soldering profile.
 
 ## 17e7b8675139f13b36ee6f62325fae_18.jpg
-![17e7b8675139f13b36ee6f62325fae_18.jpg](images_copy\17e7b8675139f13b36ee6f62325fae_18.jpg)
+![17e7b8675139f13b36ee6f62325fae_18.jpg](images_copy/17e7b8675139f13b36ee6f62325fae_18.jpg)
 It seems there's an issue because the image didn't come through. Could you please provide an image or provide more details so I can assist you further?
 
 ## 17e7b8675139f13b36ee6f62325fae_20.jpg
-![17e7b8675139f13b36ee6f62325fae_20.jpg](images_copy\17e7b8675139f13b36ee6f62325fae_20.jpg)
+![17e7b8675139f13b36ee6f62325fae_20.jpg](images_copy/17e7b8675139f13b36ee6f62325fae_20.jpg)
 Original Text:
 
 IPC J-STD-001H-SP
@@ -39,7 +39,7 @@ Explanation:
 This appears to be a page from a Spanish language version of an IPC standard (IPC J-STD-001H-SP) that was released in September 2020. IPC standards are related to electronic circuit assembly and the "J-STD-001" is specifically about requirements for soldered electrical and electronic assemblies. The text on the page informs the reader that there is no content on the page and that it has been deliberately left empty, which is common practice in formal documents to signify the end of a section or to separate different parts of the document for clarity or printing purposes.
 
 ## 17e7b8675139f13b36ee6f62325fae_23.jpg
-![17e7b8675139f13b36ee6f62325fae_23.jpg](images_copy\17e7b8675139f13b36ee6f62325fae_23.jpg)
+![17e7b8675139f13b36ee6f62325fae_23.jpg](images_copy/17e7b8675139f13b36ee6f62325fae_23.jpg)
 The provided image is a screenshot of a technical document written in Spanish. The content pertains to X-ray guidelines, as indicated by the heading "ANEXO D Pautas de Rayos X," which translates to "ANNEX D X-Ray Guidelines." 
 
 Here is a brief overview of the text sections visible in the image:
@@ -66,7 +66,7 @@ Explanation:
 The image also includes Figure D-1 and Figure D-2, which show visual examples of the welding terms mentioned in the definitions. Figure D-1 is labeled "Separacion Circunferencial de Soldadura" and Figure D-2 is labeled "Vacíos de Soldadura." These figures appear to be X-ray images of welds with annotations to highlight areas of concern, such as gaps or voids in the welding.
 
 ## 17e7b8675139f13b36ee6f62325fae_29.jpg
-![17e7b8675139f13b36ee6f62325fae_29.jpg](images_copy\17e7b8675139f13b36ee6f62325fae_29.jpg)
+![17e7b8675139f13b36ee6f62325fae_29.jpg](images_copy/17e7b8675139f13b36ee6f62325fae_29.jpg)
 Original Text:
 
 "This Page Intentionally Left Blank"
@@ -80,7 +80,7 @@ Explanation:
 The phrase "This Page Intentionally Left Blank" is typically used in documents, books, or manuals where blank pages are inserted due to printing or formatting requirements. It serves to inform the reader that the blank page is not a result of a printing error, but a deliberate decision by the creator of the document. It might be used to create separation between chapters or sections, as a placeholder if additional content is anticipated, or to ensure proper alignment in double-sided documents.
 
 ## 2.PNG
-![2.PNG](images_copy\2.PNG)
+![2.PNG](images_copy/2.PNG)
 The provided image shows two figures, labeled "Figura 1-1" and "Figura 1-2," illustrating two different methods of cable wrapping or management around a cylindrical object, likely a cable cleat or post. Each figure features a 3D rendering of the object and cable.
 
 - Figura 1-1: Cable Superpuesto
@@ -92,7 +92,7 @@ The provided image shows two figures, labeled "Figura 1-1" and "Figura 1-2," ill
 Both images serve as visual guides to illustrate the difference between the two cable management techniques, possibly for educational, training, or instructional purposes within an engineering, technical, or utilities context.
 
 ## 227a1797ed350a84567eba36c053ac_2513.jpg
-![227a1797ed350a84567eba36c053ac_2513.jpg](images_copy\227a1797ed350a84567eba36c053ac_2513.jpg)
+![227a1797ed350a84567eba36c053ac_2513.jpg](images_copy/227a1797ed350a84567eba36c053ac_2513.jpg)
 Original Text:
 ARETEC
 
@@ -103,11 +103,11 @@ Explanation:
 The text is styled in a modern font with the use of gradient colors from blue to red. The text appears to be a combination of uppercase letters. Accompanying the text is a graphic element above the letter 'E,' which resembles a stylized arrow pointing upwards, possibly denoting progress, growth, or excellence. The specific use or sector of the entity named 'ARETEC' is not clear from the image alone.
 
 ## 227a1797ed350a84567eba36c053ac_2514.jpg
-![227a1797ed350a84567eba36c053ac_2514.jpg](images_copy\227a1797ed350a84567eba36c053ac_2514.jpg)
+![227a1797ed350a84567eba36c053ac_2514.jpg](images_copy/227a1797ed350a84567eba36c053ac_2514.jpg)
 The image is completely black and does not contain any discernible content or text to describe or analyze. If there is supposed to be content in the image, it is not visible due to the darkness or lack of contrast in the image.
 
 ## 227a1797ed350a84567eba36c053ac_2515.jpg
-![227a1797ed350a84567eba36c053ac_2515.jpg](images_copy\227a1797ed350a84567eba36c053ac_2515.jpg)
+![227a1797ed350a84567eba36c053ac_2515.jpg](images_copy/227a1797ed350a84567eba36c053ac_2515.jpg)
 Original Text:
 
 Subcontractor Letter of Commitment
@@ -148,13 +148,13 @@ Explanation:
 The document is a formal Subcontractor Letter of Commitment from Astor & Sanders Corporation to Aretec Inc., confirming the former's intention to act as a subcontractor to the latter. The letter includes certification of support, authorization for Aretec to use Astor & Sanders Corporation's past experience and performance, and an understanding of personnel cost distribution requirements. It also lists the legal names and DUNS numbers for both companies and provides contact information for the authorized Astor & Sanders Corporation representative. The document specifies the commitment's duration as well as exclusivity terms for providing services related to the IRS APSS contract.
 
 ## 227a1797ed350a84567eba36c053ac_2517.jpg
-![227a1797ed350a84567eba36c053ac_2517.jpg](images_copy\227a1797ed350a84567eba36c053ac_2517.jpg)
+![227a1797ed350a84567eba36c053ac_2517.jpg](images_copy/227a1797ed350a84567eba36c053ac_2517.jpg)
 The image you've provided doesn't contain any visible content; it appears to be completely black without any discernible shapes, text, or details. It looks like the image might be blank, incorrectly loaded, or there might have been an error that resulted in a black image.
 
 If you intended to share an image with content, please check the file and try uploading it again. If this is the correct image and it's meant to be a solid black image, then there's nothing more to describe.
 
 ## 227a1797ed350a84567eba36c053ac_2540.jpg
-![227a1797ed350a84567eba36c053ac_2540.jpg](images_copy\227a1797ed350a84567eba36c053ac_2540.jpg)
+![227a1797ed350a84567eba36c053ac_2540.jpg](images_copy/227a1797ed350a84567eba36c053ac_2540.jpg)
 The image appears to be a flowchart describing a project management process or framework. The process is divided into five main stages: PLAN, ORGANIZE, DIRECT, CONTROL, and DELIVER, which are shown in columns from left to right. These stages align with common practices in project management methodologies and frameworks such as PMBOK (Project Management Body of Knowledge).
 
 Here’s what each stage roughly consists of:
@@ -176,7 +176,7 @@ Finally, in the lower left of the image, there is a reference code "IRS APSS-001
 The diagram presents a comprehensive approach to project management, integrating planning, organizing, execution, control, and delivery processes with decision points and metrics to ensure the project meets its goals and adapts as needed.
 
 ## 227a1797ed350a84567eba36c053ac_2584.jpg
-![227a1797ed350a84567eba36c053ac_2584.jpg](images_copy\227a1797ed350a84567eba36c053ac_2584.jpg)
+![227a1797ed350a84567eba36c053ac_2584.jpg](images_copy/227a1797ed350a84567eba36c053ac_2584.jpg)
 The image appears to be an organizational chart or a project team structure detailing various roles within a project or a company. The chart is color-coded and includes a legend to identify the type of personnel.
 
 Let's go through the key elements:
@@ -192,7 +192,7 @@ Let's go through the key elements:
 The chart is structured hierarchically with the IRS roles at the top, followed by corporate and project management roles in the middle, and various specific functional roles at the bottom.
 
 ## 3.PNG
-![3.PNG](images_copy\3.PNG)
+![3.PNG](images_copy/3.PNG)
 The provided image appears to be an illustration related to the concept of contact angles, specifically in the context of a wetting process, which is typically a term used in surface chemistry and materials science. Below is a description of the image:
 
 The image shows four diagrams (labeled A, B, C, and D) depicting a droplet in contact with a solid surface, to illustrate different scenarios of wetting. The term "Ángulos de Adherencia/Mojado Aceptables" in the caption translates to "Acceptable Adherence/Wetting Angles" in English.
@@ -206,7 +206,7 @@ The arrows in diagrams B, C, and D point to the moving direction of the contact 
 In summary, the image is a technical diagram used to explain the concept of wetting and how different surfaces interact with a liquid based on contact angles below, equal to, or above 90 degrees.
 
 ## 4.PNG
-![4.PNG](images_copy\4.PNG)
+![4.PNG](images_copy/4.PNG)
 The provided image is a technical diagram depicting the sequence and orientation of hardware components for assembly. This type of diagram is commonly used in mechanical engineering and construction manuals to show the correct order and position of parts for assembly.
 
 The image illustrates two views of a bolt and nut assembly with various washers and components, labeled with numbers correlating to a key provided below the diagram.
@@ -230,7 +230,7 @@ Explanation:
 Such diagrams are crucial for ensuring that components are assembled correctly and function as intended. They help prevent assembly mistakes that could lead to safety issues or equipment failure.
 
 ## 5.PNG
-![5.PNG](images_copy\5.PNG)
+![5.PNG](images_copy/5.PNG)
 The provided image appears to be a close-up photograph of a technical setup, possibly a part of machinery or experimental apparatus. Here are the details based on the numbered labels:
 
 1. This seems to be a tensioned wire or a thin rod that is connected to a mechanism, denoted by the eyelet or loop at the end of the rod. This could be part of a setup where precise movement or measurement of tension is necessary.
@@ -240,7 +240,7 @@ The provided image appears to be a close-up photograph of a technical setup, pos
 Overall, the image shows a mechanical assembly used for adjusting tension on a wire or rod. This setup might be used in various applications like scientific experiments, mechanical testing, or precision engineering contexts. Without additional context or a broader view, the specific purpose or function of this assembly can only be speculated upon.
 
 ## 6.PNG
-![6.PNG](images_copy\6.PNG)
+![6.PNG](images_copy/6.PNG)
 The provided image appears to be a technical diagram comparing two different mechanical processes or states, labeled as '-A-' and '-B-'. Here is a breakdown of the elements within the diagram:
 
 -A-:
@@ -258,7 +258,7 @@ The provided image appears to be a technical diagram comparing two different mec
 The image is meant to convey differences in mechanical force application, pressure distribution, or the effects on the parts involved. The exact nature of the processes or states being depicted would usually be explained in accompanying text or technical documentation, which is not provided here. The numbers seem to suggest a sequence or a way to identify various parts or phases, while the arrows likely indicate direction of forces or movements.
 
 ## 6353a2c4a6e9b055dfd7493736a954_2346.jpg
-![6353a2c4a6e9b055dfd7493736a954_2346.jpg](images_copy\6353a2c4a6e9b055dfd7493736a954_2346.jpg)
+![6353a2c4a6e9b055dfd7493736a954_2346.jpg](images_copy/6353a2c4a6e9b055dfd7493736a954_2346.jpg)
 Original Text:
 ARETEC
 
@@ -269,7 +269,7 @@ Explanation:
 The logo appears to represent a company or brand named ARETEC. The design is modern and minimalistic, using a sans-serif font with varying colors for the letters. The arrow or chevron symbol above the 'A' could imply excellence, upward movement, or progress, which is often associated with companies striving for innovation or leadership within their industry. The chosen colors may have specific meanings or simply be part of the brand's color scheme.
 
 ## 6353a2c4a6e9b055dfd7493736a954_2349.jpg
-![6353a2c4a6e9b055dfd7493736a954_2349.jpg](images_copy\6353a2c4a6e9b055dfd7493736a954_2349.jpg)
+![6353a2c4a6e9b055dfd7493736a954_2349.jpg](images_copy/6353a2c4a6e9b055dfd7493736a954_2349.jpg)
 The image is a triangular diagram representing the components of Integrated Project Teams Delivering Value. It's divided into three main sections labeled PEOPLE, PROCESSES, and TOOLS, each presented on one edge of the triangle, suggesting that these three elements work together synergistically.
 
 On the PEOPLE side, the diagram emphasizes:
@@ -296,7 +296,7 @@ Below the central message, there's a subtitle "Enterprise Coordination and Cross
 Overall, the diagram seems to be a schematic representation of a structured approach to project management, integrating people, processes, and tools to deliver value through coordinated teamwork and cross-program collaboration.
 
 ## 6353a2c4a6e9b055dfd7493736a954_2362.jpg
-![6353a2c4a6e9b055dfd7493736a954_2362.jpg](images_copy\6353a2c4a6e9b055dfd7493736a954_2362.jpg)
+![6353a2c4a6e9b055dfd7493736a954_2362.jpg](images_copy/6353a2c4a6e9b055dfd7493736a954_2362.jpg)
 The image appears to be a graphical representation of a process or framework, commonly used in business or project management contexts. It features a central 3D skyscraper-like structure with 'Feature A', 'Feature B', and 'Feature C' indicated on different levels of the building. The building serves as a metaphor for a constructed product, project, or service that is composed of multiple features or components.
 
 Surrounding the structure are circular arrows, symbolizing a cyclical or iterative process, with three stages denoted by icons and text:
@@ -310,7 +310,7 @@ The arrows and the sequence together imply that the process involves creating an
 In the lower right corner, there's a code "NCUA-005c" that could be an internal reference or cataloging identifier related to the diagram.
 
 ## 6353a2c4a6e9b055dfd7493736a954_2369.jpg
-![6353a2c4a6e9b055dfd7493736a954_2369.jpg](images_copy\6353a2c4a6e9b055dfd7493736a954_2369.jpg)
+![6353a2c4a6e9b055dfd7493736a954_2369.jpg](images_copy/6353a2c4a6e9b055dfd7493736a954_2369.jpg)
 Original Text:
 
 DocuSign Envelope ID: 0DC894FF-E334-4389-98A4-A49BE3AB7C0F
@@ -368,7 +368,7 @@ Explanation:
 The content of the image is a formal business letter. Its purpose is to provide written confirmation from an individual about their commitment to a role, contingent upon the success of a business deal. The letter follows standard business communication protocols, including the sender's and recipient's contact information, a formal salutation, the body of the letter outlining the commitment, a polite closing, and the sender’s printed name, signature, and the date of signing at the bottom. It also mentions a unique identifier (DocuSign Envelope ID) for document handling and signature verification.
 
 ## 6353a2c4a6e9b055dfd7493736a954_2373.jpg
-![6353a2c4a6e9b055dfd7493736a954_2373.jpg](images_copy\6353a2c4a6e9b055dfd7493736a954_2373.jpg)
+![6353a2c4a6e9b055dfd7493736a954_2373.jpg](images_copy/6353a2c4a6e9b055dfd7493736a954_2373.jpg)
 Original Text:
 The image cannot be transcribed as it contains a signature.
 
@@ -379,7 +379,7 @@ Explanation:
 Signatures are typically unique to each individual and are used to show agreement, consent, or proof of authorship. They can vary widely in style and complexity and often include both cursive and non-cursive elements. This signature appears to have both fluid lines and sharp strokes, suggesting a personalized and possibly practiced form of writing by the individual it represents. The signature is written in black ink on a white or very light background. Signatures like this one are often found on documents, letters, legal agreements, or artworks to authenticate them or to indicate endorsement or responsibility.
 
 ## 6353a2c4a6e9b055dfd7493736a954_2375.jpg
-![6353a2c4a6e9b055dfd7493736a954_2375.jpg](images_copy\6353a2c4a6e9b055dfd7493736a954_2375.jpg)
+![6353a2c4a6e9b055dfd7493736a954_2375.jpg](images_copy/6353a2c4a6e9b055dfd7493736a954_2375.jpg)
 The image appears to be a cover page for a technical and management proposal related to "NCUA ITSS Task Order 4: GENESIS FOMIA Technology Refresh." The document is associated with the Bureau of Federal Credit Unions and the National Credit Union Administration (NCUA). It includes the RFP (Request for Proposal) number NCUA-20-R-0022 and a submission date of March 2, 2020. The logo in the upper right indicates that the proposal is from ARETEC.
 
 The main heading "Volume I – Technical and Management Proposal" suggests that the document is structured in multiple volumes, and this particular one deals with technical and management aspects of the proposal.
@@ -426,78 +426,78 @@ Summary:
 The image is the cover page of a technical and management proposal from Aretec, Inc. for a project with the National Credit Union Administration. This cover includes basic corporate information, contacts, and security classification, as well as a notice regarding the proprietary nature of the included data.
 
 ## 6353a2c4a6e9b055dfd7493736a954_2384.jpg
-![6353a2c4a6e9b055dfd7493736a954_2384.jpg](images_copy\6353a2c4a6e9b055dfd7493736a954_2384.jpg)
+![6353a2c4a6e9b055dfd7493736a954_2384.jpg](images_copy/6353a2c4a6e9b055dfd7493736a954_2384.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## 6353a2c4a6e9b055dfd7493736a954_2386.jpg
-![6353a2c4a6e9b055dfd7493736a954_2386.jpg](images_copy\6353a2c4a6e9b055dfd7493736a954_2386.jpg)
+![6353a2c4a6e9b055dfd7493736a954_2386.jpg](images_copy/6353a2c4a6e9b055dfd7493736a954_2386.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## 6353a2c4a6e9b055dfd7493736a954_2391.jpg
-![6353a2c4a6e9b055dfd7493736a954_2391.jpg](images_copy\6353a2c4a6e9b055dfd7493736a954_2391.jpg)
+![6353a2c4a6e9b055dfd7493736a954_2391.jpg](images_copy/6353a2c4a6e9b055dfd7493736a954_2391.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## d925ea8931e3dd03fd80ccb781efee_283.jpg
-![d925ea8931e3dd03fd80ccb781efee_283.jpg](images_copy\d925ea8931e3dd03fd80ccb781efee_283.jpg)
+![d925ea8931e3dd03fd80ccb781efee_283.jpg](images_copy/d925ea8931e3dd03fd80ccb781efee_283.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## ebe4ebf67ebff5eb50df72128bf233_1117.jpg
-![ebe4ebf67ebff5eb50df72128bf233_1117.jpg](images_copy\ebe4ebf67ebff5eb50df72128bf233_1117.jpg)
+![ebe4ebf67ebff5eb50df72128bf233_1117.jpg](images_copy/ebe4ebf67ebff5eb50df72128bf233_1117.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## ebe4ebf67ebff5eb50df72128bf233_1118.jpg
-![ebe4ebf67ebff5eb50df72128bf233_1118.jpg](images_copy\ebe4ebf67ebff5eb50df72128bf233_1118.jpg)
+![ebe4ebf67ebff5eb50df72128bf233_1118.jpg](images_copy/ebe4ebf67ebff5eb50df72128bf233_1118.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## ebe4ebf67ebff5eb50df72128bf233_1135.jpg
-![ebe4ebf67ebff5eb50df72128bf233_1135.jpg](images_copy\ebe4ebf67ebff5eb50df72128bf233_1135.jpg)
+![ebe4ebf67ebff5eb50df72128bf233_1135.jpg](images_copy/ebe4ebf67ebff5eb50df72128bf233_1135.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## ebe4ebf67ebff5eb50df72128bf233_1136.jpg
-![ebe4ebf67ebff5eb50df72128bf233_1136.jpg](images_copy\ebe4ebf67ebff5eb50df72128bf233_1136.jpg)
+![ebe4ebf67ebff5eb50df72128bf233_1136.jpg](images_copy/ebe4ebf67ebff5eb50df72128bf233_1136.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## ebe4ebf67ebff5eb50df72128bf233_1138.jpg
-![ebe4ebf67ebff5eb50df72128bf233_1138.jpg](images_copy\ebe4ebf67ebff5eb50df72128bf233_1138.jpg)
+![ebe4ebf67ebff5eb50df72128bf233_1138.jpg](images_copy/ebe4ebf67ebff5eb50df72128bf233_1138.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## ebe4ebf67ebff5eb50df72128bf233_1139.jpg
-![ebe4ebf67ebff5eb50df72128bf233_1139.jpg](images_copy\ebe4ebf67ebff5eb50df72128bf233_1139.jpg)
+![ebe4ebf67ebff5eb50df72128bf233_1139.jpg](images_copy/ebe4ebf67ebff5eb50df72128bf233_1139.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## ebe4ebf67ebff5eb50df72128bf233_1143.jpg
-![ebe4ebf67ebff5eb50df72128bf233_1143.jpg](images_copy\ebe4ebf67ebff5eb50df72128bf233_1143.jpg)
+![ebe4ebf67ebff5eb50df72128bf233_1143.jpg](images_copy/ebe4ebf67ebff5eb50df72128bf233_1143.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## f12e3115fa8503539c2de8ab5d1d47_65.jpg
-![f12e3115fa8503539c2de8ab5d1d47_65.jpg](images_copy\f12e3115fa8503539c2de8ab5d1d47_65.jpg)
+![f12e3115fa8503539c2de8ab5d1d47_65.jpg](images_copy/f12e3115fa8503539c2de8ab5d1d47_65.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## f12e3115fa8503539c2de8ab5d1d47_66.jpg
-![f12e3115fa8503539c2de8ab5d1d47_66.jpg](images_copy\f12e3115fa8503539c2de8ab5d1d47_66.jpg)
+![f12e3115fa8503539c2de8ab5d1d47_66.jpg](images_copy/f12e3115fa8503539c2de8ab5d1d47_66.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on tokens per min (TPM): Limit 40000, Used 36448, Requested 4195. Please try again in 964ms. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## f12e3115fa8503539c2de8ab5d1d47_67.jpg
-![f12e3115fa8503539c2de8ab5d1d47_67.jpg](images_copy\f12e3115fa8503539c2de8ab5d1d47_67.jpg)
+![f12e3115fa8503539c2de8ab5d1d47_67.jpg](images_copy/f12e3115fa8503539c2de8ab5d1d47_67.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## f12e3115fa8503539c2de8ab5d1d47_68.jpg
-![f12e3115fa8503539c2de8ab5d1d47_68.jpg](images_copy\f12e3115fa8503539c2de8ab5d1d47_68.jpg)
+![f12e3115fa8503539c2de8ab5d1d47_68.jpg](images_copy/f12e3115fa8503539c2de8ab5d1d47_68.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on tokens per min (TPM): Limit 40000, Used 38848, Requested 4195. Please try again in 4.564s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## f12e3115fa8503539c2de8ab5d1d47_69.jpg
-![f12e3115fa8503539c2de8ab5d1d47_69.jpg](images_copy\f12e3115fa8503539c2de8ab5d1d47_69.jpg)
+![f12e3115fa8503539c2de8ab5d1d47_69.jpg](images_copy/f12e3115fa8503539c2de8ab5d1d47_69.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on tokens per min (TPM): Limit 40000, Used 37963, Requested 4195. Please try again in 3.237s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## f12e3115fa8503539c2de8ab5d1d47_70.jpg
-![f12e3115fa8503539c2de8ab5d1d47_70.jpg](images_copy\f12e3115fa8503539c2de8ab5d1d47_70.jpg)
+![f12e3115fa8503539c2de8ab5d1d47_70.jpg](images_copy/f12e3115fa8503539c2de8ab5d1d47_70.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on tokens per min (TPM): Limit 40000, Used 37068, Requested 4195. Please try again in 1.894s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## f12e3115fa8503539c2de8ab5d1d47_71.jpg
-![f12e3115fa8503539c2de8ab5d1d47_71.jpg](images_copy\f12e3115fa8503539c2de8ab5d1d47_71.jpg)
+![f12e3115fa8503539c2de8ab5d1d47_71.jpg](images_copy/f12e3115fa8503539c2de8ab5d1d47_71.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on tokens per min (TPM): Limit 40000, Used 36171, Requested 4195. Please try again in 549ms. Visit https://platform.openai.com/account/rate-limits to learn more.
 
 ## f12e3115fa8503539c2de8ab5d1d47_72.jpg
-![f12e3115fa8503539c2de8ab5d1d47_72.jpg](images_copy\f12e3115fa8503539c2de8ab5d1d47_72.jpg)
+![f12e3115fa8503539c2de8ab5d1d47_72.jpg](images_copy/f12e3115fa8503539c2de8ab5d1d47_72.jpg)
 No caption found Rate limit reached for gpt-4-vision-preview in organization org-bDPtB4TRDcz7wnD5jDm3HqSk on requests per day (RPD): Limit 100, Used 100, Requested 1. Please try again in 14m24s. Visit https://platform.openai.com/account/rate-limits to learn more.
 
